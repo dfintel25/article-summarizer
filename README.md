@@ -88,6 +88,7 @@ git push -u origin main
 import os os.system('jupyter nbconvert --to html python-ds.ipynb')
 ```
 ### 7. Specific Module 6 Imports
+```
 python -m pip install beautifulsoup4
 python -m pip install html5lib
 python -m pip install requests
