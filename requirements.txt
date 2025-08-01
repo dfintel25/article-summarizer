@@ -1,0 +1,6 @@
+collections
+pickle
+requests
+spacy
+beautifulsoup4
+matplotlib
